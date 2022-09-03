@@ -1,0 +1,7 @@
+C:\Users\antosp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\CollectionsDemo.exe.config
+C:\Users\antosp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\CollectionsDemo.exe
+C:\Users\antosp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\CollectionsDemo.pdb
+C:\Users\antosp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\CollectionsDemo.csprojAssemblyReference.cache
+C:\Users\antosp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\antosp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\CollectionsDemo.exe
+C:\Users\antosp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\CollectionsDemo.pdb
